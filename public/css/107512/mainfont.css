@@ -16,7 +16,7 @@ html, body{
 #PeopleCountTitleChinese{
 	font-family: 'Noto Sans SC', sans-serif;
 	color:black;
-	margin-left:50px;
+	margin-left: 75px;
 }
 #PeopleCountTitle{
 	margin-left:50px;
@@ -37,4 +37,35 @@ html, body{
 #Title1{
 	font-size:30px;
 	font-weight: 600;
+}
+#HotClassDetach{
+	padding-left:-270px;
+}
+#HotClassDetach1{
+	margin-right:-350px;
+}
+.agileits_w3layouts_head{
+	font-family: Microsoft JhengHei;	
+	font-size:32px;
+}
+.agileits_w3layouts_head span{
+	color:#a0d034;
+	font-size:40px;
+}
+.agile_para{
+	font-family: Microsoft JhengHei;
+}
+.mis-slide figure figcaption{
+	color:rgb(168, 109, 0);
+	font-family: Microsoft JhengHei;
+}
+#ClassTitlefont{
+	font-family: Microsoft JhengHei;
+}
+#yearsreport{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+.agile_para-2{
+	color: rgb(235, 255, 52);
+	font-family: Microsoft JhengHei;
 }
